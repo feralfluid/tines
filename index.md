@@ -1,13 +1,15 @@
 # Tines Species Reference
 
-## What are tines?
 "Tines" are a doglike alien species from the *Zones of Thought* (ZoT) books, written by Vernor Vinge. This document is meant to serve as a comprehensive reference on how to depict them in art.
 
+## On Pack Mindedness
+Tines are a *pack mind* species. They form usually-small packs which share a single gestalt consciousness made up by its members. A pack is generally to be treated and referred to as one individual, with only one point of active attention. Unlike a traditional hive mind, the presence of each member has a significant impact on the resulting individual, and there is no central entity in control.
+
 ## Fan-made Visual References
-![One of Amdiranifani's members](./attachments/amdi.png)
+[<img src="./attachments/amdi.png" width="500"/>](./attachments/amdi.png)<br>
 One of Amdiranifani's members, illustrated by [Caz](https://timberwind.tumblr.com) [[source](https://bsky.app/profile/timberwind.bsky.social/post/3kx26wyju4r2p)]
 
-![Sophiranifani](./attachments/me.jpg)
+[<img src="./attachments/me.jpg" width="500"/>](./attachments/me.jpg)<br>
 Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 
 ## Physical Description
