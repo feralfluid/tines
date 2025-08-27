@@ -5,7 +5,7 @@
 
 ## Fan-created Visual References
 ![One of Amdiranifani's members](./attachments/amdi.png)
-[One of Amdiranifani's members](https://bsky.app/profile/timberwind.bsky.social/post/3kx26wyju4r2p), illustrated by [Caz](https://bsky.app/profile/timberwind.bsky.social)
+One of Amdiranifani's members, illustrated by [Caz](https://timberwind.tumblr.com) [[source](https://bsky.app/profile/timberwind.bsky.social/post/3kx26wyju4r2p)]
 
 ![Sophiranifani](./attachments/me.jpg)
 Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
