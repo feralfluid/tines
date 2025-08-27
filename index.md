@@ -3,7 +3,7 @@
 ## What are tines?
 "Tines" are a doglike alien species from the *Zones of Thought* (ZoT) books, written by Vernor Vinge. This document is meant to serve as a comprehensive reference on how to depict them in art.
 
-## Fan-created Visual References
+## Fan-made Visual References
 ![One of Amdiranifani's members](./attachments/amdi.png)
 One of Amdiranifani's members, illustrated by [Caz](https://timberwind.tumblr.com) [[source](https://bsky.app/profile/timberwind.bsky.social/post/3kx26wyju4r2p)]
 
