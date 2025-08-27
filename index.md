@@ -1,3 +1,8 @@
+---
+layout: home
+title: "Tines Species Reference"
+permalink: /
+---
 # Tines Species Reference
 
 "Tines" are a doglike alien species from the *Zones of Thought* (ZoT) books, written by Vernor Vinge. This document is meant to serve as a comprehensive reference on how to depict them in art.
