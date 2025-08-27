@@ -1,4 +1,5 @@
 remote_theme: jekyll/minima
 
 minima:
-  skin: dark
+  skin: auto # adaptive theme
+  hide_site_feed_link: true # hide RSS feed button

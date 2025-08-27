@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Tines Species Reference"
+title: ""
 permalink: /
 ---
 # Tines Species Reference
