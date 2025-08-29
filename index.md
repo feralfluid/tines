@@ -24,12 +24,16 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 - Long muzzle/nose, (and more of a slit than snoot on the breathing nostrils)
 - Hairless patches of dark skin, called "tympana", are typically located on the forehead and shoulders. These membranes enable high-pitched intrapack "mindsound", along with interpack speech and hearing.
 
-#### Excerpts from the Zones of Thought books
+<details>
+<summary>Excerpts from the Zones of Thought books</summary>
+
 >Considering all the thousands of years that dogs have been bred by humans (and others), this could have been some oddball breed ... but only just. The hair was short and dense, a deep velour of black and white. The two tones lay in broad swaths with no intermediate grays. This one’s entire head was black, its haunches split between white and black. The tail was a short, unimpressive flap covering its rear. There were hairless patches on its shoulders and head, where Jefri could see black skin. But the strangest thing was the long, supple neck. It would look more natural in a sea’mal than a dog.
 >
 >Jefri wiggled his fingers, and the puppy's eyes widened, revealing an edge of white around the iris.
 >
 > -- <cite>Vernor Vinge, A Fire Upon the Deep, Chapter 5</cite>
+
+</details>
 
 ## Intrapack (member-to-member) Dynamics
 - Packs are typically made up of 3-6 members. Their cognitive capacity scales with the size of the pack. A pack has a much greater capacity for intelligence than a singleton.
@@ -43,7 +47,9 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 - Packs can think more clearly when they are huddled closer together. Members never stray further than a few meters from the others in their pack, but in particularly echoey, crowded, or otherwise overstimulating environments, packs instinctively put their heads closer to each other, engaging in "heads-together thought" in order to think more clearly.
 	- Heads-together thought can also be used consciously to focus active attention. A pack-mind's natural wandering/stimming can be reigned in by bringing members close together.
 
-#### Excerpts from the Zones of Thought books
+<details>
+<summary>Excerpts from the Zones of Thought books</summary>
+
 >It didn’t take Jefri long to realize that the puppies were driven by a single mind. When they ran around him, some would always sit a little way off, their graceful necks arching this way and that—and the runners seemed to know exactly what the others saw. He couldn’t hide things behind his back if there was even one of them to alert the others. For a while he thought they were somehow talking to each other. But it was more than that: when he watched them unfasten his shoes or draw a picture—the heads and mouths and paws cooperated so perfectly, like the fingers on a person’s hands. Jefri didn’t reason things out so explicitly; but over a period of days he came to think of all the puppies together as a single friend.
 >
 > -- <cite>Vernor Vinge, A Fire Upon the Deep, Chapter 14</cite>
@@ -60,13 +66,17 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 >
 > -- <cite>Vernor Vinge, A Fire Upon the Deep, Chapter 23</cite>
 
+</details>
+
 ## Interpack (pack-to-pack) Dynamics
 - Because thought is synonymous with sound for tines, being physically close to another pack completely disrupts clear-thinking. Packs need to stand at least around 10 meters apart in order to avoid confusion, and even smooth, reflective surfaces can confuse thought.
 - Mindsound is a very high-pitched buzzing, and it doesn't propagate very far. Packs use the lower-pitched "interpack speech" to communicate with each other.
 	- Interpack speech is much more firmly within the range of human hearing than mindsound, but it is still outside of what is possible for human speech. That said, tympana are capable of producing sound in the range of human speech, and tines can learn to communicate with human language.
 - Some packs are also capable of making and interpreting interpack speech in the range of mindsound ("hightalk"), so that the sound doesn't travel as far, and so that the communication can't be detected by the longer-range, directional hearing abilities of tine ears ("low-sound ears")
 
-#### Excerpts from the Zones of Thought books
+<details>
+<summary>Excerpts from the Zones of Thought books</summary>
+
 >They stared at each other for a moment, then Scriber made silly squirling gestures at his shoulder tympana. _Listen up_. “Can you talk like this?” His voice came very high-pitched, up where some people can’t make voluntary conversation, where low-sound ears are deaf. Hightalk could be confusing, but it was very directional and faded quickly with distance; no one else would hear them. Peregrine nodded, “Hightalk is no problem.” The trick was to use tones pure enough not to confuse.
 >
 > -- <cite>Vernor Vinge, A Fire Upon the Deep, Chapter 2</cite>
@@ -74,3 +84,5 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 >"Be careful!" Jefri said, jerking back his hand. He remembered the grownups' teeth. Suddenly the air was full of gobbling and buzzing. Hmp. They sounded more like goofy birds than dogs. One of the other pups came forward. It extended a sleek nose toward Jefri. "Be careful!" it said, a perfect playback of the boy's voice ... yet its mouth was closed.
 >
 > -- <cite>Vernor Vinge, A Fire Upon the Deep, Chapter 5</cite>
+
+<details>
