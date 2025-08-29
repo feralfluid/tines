@@ -1,1 +1,8 @@
+# local testing files
+.ruby-version
+Gemfile
+Gemfile.lock
+
+# build files
 _site
+.jekyll-cache
