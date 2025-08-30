@@ -43,10 +43,13 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 - Packs can think more clearly when they are huddled closer together. Members never stray further than a few meters from the others in their pack, but in particularly echoey, crowded, or otherwise overstimulating environments, packs instinctively put their heads closer to each other, engaging in "heads-together thought" in order to think more clearly.
 	- Heads-together thought can also be used consciously to focus active attention. A pack-mind's natural wandering/stimming can be reigned in by bringing members close together.
 
-#### Excerpts from the Zones of Thought books
->It didn’t take Jefri long to realize that the puppies were driven by a single mind. When they ran around him, some would always sit a little way off, their graceful necks arching this way and that—and the runners seemed to know exactly what the others saw. He couldn’t hide things behind his back if there was even one of them to alert the others. For a while he thought they were somehow talking to each other. But it was more than that: when he watched them unfasten his shoes or draw a picture—the heads and mouths and paws cooperated so perfectly, like the fingers on a person’s hands. Jefri didn’t reason things out so explicitly; but over a period of days he came to think of all the puppies together as a single friend.
->
-> -- <cite>Vernor Vinge, A Fire Upon the Deep, Chapter 14</cite>
+<details>
+<summary>Excerpts from the Zones of Thought books</summary>
+<blockquote>
+<p>It didn’t take Jefri long to realize that the puppies were driven by a single mind. When they ran around him, some would always sit a little way off, their graceful necks arching this way and that—and the runners seemed to know exactly what the others saw. He couldn’t hide things behind his back if there was even one of them to alert the others. For a while he thought they were somehow talking to each other. But it was more than that: when he watched them unfasten his shoes or draw a picture—the heads and mouths and paws cooperated so perfectly, like the fingers on a person’s hands. Jefri didn’t reason things out so explicitly; but over a period of days he came to think of all the puppies together as a single friend.</p>
+<p>—Vernor Vinge, <cite>A Fire Upon the Deep, Chapter 14</cite></p>
+</blockquote>
+</details>
 
 >“Wic-Kwk-Rac-Rum looked ahead. He was almost out of it; the south edge of the wreckage. He dragged himself to a patch of clean ground. Parts of him vomited, and he collapsed. Sanity slowly returned. Wickwrackrum looked up, saw Jaqueramaphan just inside the mob. Scriber was a big fellow, a sixsome, but he was having at least as bad a time as Peregrine. He staggered from side to side, eyes wide, snapping at himself and others.
 >
