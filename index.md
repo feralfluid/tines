@@ -29,7 +29,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 
 <blockquote>
 <details>
-<summary>Excerpts from the Zones of Thought books <i>(Click to reveal)</i></summary>
+<summary><i>Excerpts from the Zones of Thought books</i> (Click to reveal)</summary>
 
 <blockquote>
 <p>Considering all the thousands of years that dogs have been bred by humans (and others), this could have been some oddball breed ... but only just. The hair was short and dense, a deep velour of black and white. The two tones lay in broad swaths with no intermediate grays. This one’s entire head was black, its haunches split between white and black. The tail was a short, unimpressive flap covering its rear. There were hairless patches on its shoulders and head, where Jefri could see black skin. But the strangest thing was the long, supple neck. It would look more natural in a sea’mal than a dog.</p>
@@ -54,7 +54,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 
 <blockquote>
 <details>
-<summary>Excerpts from the Zones of Thought books <i>(Click to reveal)</i></summary>
+<summary><i>Excerpts from the Zones of Thought books</i> (Click to reveal)</summary>
 
 <blockquote>
 <p>It didn’t take Jefri long to realize that the puppies were driven by a single mind. When they ran around him, some would always sit a little way off, their graceful necks arching this way and that—and the runners seemed to know exactly what the others saw. He couldn’t hide things behind his back if there was even one of them to alert the others. For a while he thought they were somehow talking to each other. But it was more than that: when he watched them unfasten his shoes or draw a picture—the heads and mouths and paws cooperated so perfectly, like the fingers on a person’s hands. Jefri didn’t reason things out so explicitly; but over a period of days he came to think of all the puppies together as a single friend.</p>
@@ -87,7 +87,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 
 <blockquote>
 <details>
-<summary>Excerpts from the Zones of Thought books <i>(Click to reveal)</i></summary>
+<summary><i>Excerpts from the Zones of Thought books</i> (Click to reveal)</summary>
 
 <blockquote>
 <p>They stared at each other for a moment, then Scriber made silly squirling gestures at his shoulder tympana. _Listen up_. “Can you talk like this?” His voice came very high-pitched, up where some people can’t make voluntary conversation, where low-sound ears are deaf. Hightalk could be confusing, but it was very directional and faded quickly with distance; no one else would hear them. Peregrine nodded, “Hightalk is no problem.” The trick was to use tones pure enough not to confuse.</p>
