@@ -27,6 +27,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 - Long muzzle/nose, (and more of a slit than snoot on the breathing nostrils)
 - Hairless patches of dark skin, called "tympana", are typically located on the forehead and shoulders. These membranes enable high-pitched intrapack "mindsound", along with interpack speech and hearing.
 
+<blockquote>
 <details>
 <summary>Excerpts from the Zones of Thought books <i>(Click to reveal)</i></summary>
 
@@ -37,7 +38,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 </blockquote>
 
 </details>
-
+</blockquote>
 
 ## Intrapack (member-to-member) Dynamics
 - Packs are typically made up of 3-6 members. Their cognitive capacity scales with the size of the pack. A pack has a much greater capacity for intelligence than a singleton.
@@ -84,6 +85,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 	- Interpack speech is much more firmly within the range of human hearing than mindsound, but it is still outside of what is possible for human speech. That said, tympana are capable of producing sound in the range of human speech, and tines can learn to communicate with human language.
 - Some packs are also capable of making and interpreting interpack speech in the range of mindsound ("hightalk"), so that the sound doesn't travel as far, and so that the communication can't be detected by the longer-range, directional hearing abilities of tine ears ("low-sound ears")
 
+<blockquote>
 <details>
 <summary>Excerpts from the Zones of Thought books <i>(Click to reveal)</i></summary>
 
@@ -98,3 +100,4 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 </blockquote>
 
 </details>
+</blockquote>
