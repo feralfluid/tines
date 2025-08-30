@@ -51,6 +51,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 - Packs can think more clearly when they are huddled closer together. Members never stray further than a few meters from the others in their pack, but in particularly echoey, crowded, or otherwise overstimulating environments, packs instinctively put their heads closer to each other, engaging in "heads-together thought" in order to think more clearly.
 	- Heads-together thought can also be used consciously to focus active attention. A pack-mind's natural wandering/stimming can be reigned in by bringing members close together.
 
+<blockquote>
 <details>
 <summary>Excerpts from the Zones of Thought books <i>(Click to reveal)</i></summary>
 
@@ -75,7 +76,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 </blockquote>
 
 </details>
-
+</blockquote>
 
 ## Interpack (pack-to-pack) Dynamics
 - Because thought is synonymous with sound for tines, being physically close to another pack completely disrupts clear-thinking. Packs need to stand at least around 10 meters apart in order to avoid confusion, and even smooth, reflective surfaces can confuse thought.
