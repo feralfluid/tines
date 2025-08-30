@@ -7,11 +7,11 @@ permalink: /
 
 "Tines" are a doglike alien species from the *Zones of Thought* (ZoT) books, written by Vernor Vinge. This document is meant to serve as a comprehensive reference on how to depict them in art.
 
----
+
 ## On Pack Mindedness
 Tines are a *pack mind* species. They form usually-small packs which share a single gestalt consciousness made up by its members. A pack is generally to be treated and referred to as one individual, with only one point of active attention. Unlike a traditional hive mind, the presence of each member has a significant impact on the resulting individual, and there is no central entity in control.
 
----
+
 ## Fan-made Visual References
 [<img src="./attachments/amdi.png" width="500"/>](./attachments/amdi.png)<br>
 One of Amdiranifani's members, illustrated by [Caz](https://timberwind.tumblr.com) [[source](https://bsky.app/profile/timberwind.bsky.social/post/3kx26wyju4r2p)]
@@ -19,7 +19,7 @@ One of Amdiranifani's members, illustrated by [Caz](https://timberwind.tumblr.co
 [<img src="./attachments/me.jpg" width="500"/>](./attachments/me.jpg)<br>
 Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 
----
+
 ## Physical Description
 - Traditionally black-and-white pelt coloration, with no intermediate grays.
 - The fur is relatively short and dense, but *very* soft.
@@ -38,7 +38,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 
 </details>
 
----
+
 ## Intrapack (member-to-member) Dynamics
 - Packs are typically made up of 3-6 members. Their cognitive capacity scales with the size of the pack. A pack has a much greater capacity for intelligence than a singleton.
 	- Past 6 members, thought is very difficult to coordinate. Packs larger than 6 are *generally* too uncoordinated and confusing for cognitive capacity to scale smoothly, thought no longer clear enough to be useful. With that said, slightly larger clear-thinking packs (of up to 8) can and have existed comfortably.
@@ -71,12 +71,12 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 
 <blockquote>
 <p>Steel watched a digger pack at the bottom of one of the trenches. There were thirty members, so close to each other that their shoulders sometimes touched. It was an enormous mob, but there was nothing of an orgy about the association. Even before Woodcarver, construction and factory guilds had been doing this sort of thing: The thirty-member pack below was probably not as bright as a threesome. The front rank of ten swung mattocks in unison, carving steadily into the wall of dirt. When their heads and mattocks were extended high, the ten members behind them darted forward to scoop back the dirt and rocks that had just been freed. Behind them, a third tier of members hauled the dirt from the pit. Making it work was a complicated bit of timing — the earth was not homogeneous — but it was well within the mental ability of the pack.</p>
-<p>—Vernor Vinge, <cite>A Fire Upon the Deep, Chapter 23</cite>
+<p>—Vernor Vinge, <cite>A Fire Upon the Deep, Chapter 23</cite></p>
 </blockquote>
 
 </details>
 
----
+
 ## Interpack (pack-to-pack) Dynamics
 - Because thought is synonymous with sound for tines, being physically close to another pack completely disrupts clear-thinking. Packs need to stand at least around 10 meters apart in order to avoid confusion, and even smooth, reflective surfaces can confuse thought.
 - Mindsound is a very high-pitched buzzing, and it doesn't propagate very far. Packs use the lower-pitched "interpack speech" to communicate with each other.
