@@ -25,7 +25,7 @@ Sophiranifani, illustrated by [Coyote](https://www.furaffinity.net/user/faryart)
 - Hairless patches of dark skin, called "tympana", are typically located on the forehead and shoulders. These membranes enable high-pitched intrapack "mindsound", along with interpack speech and hearing.
 
 <details>
-<summary><h3>Excerpts from the Zones of Thought books </h3><i>(Click to reveal)</i></summary>
+<h3><summary>Excerpts from the Zones of Thought books <i>(Click to reveal)</i></summary></h3>
 <blockquote>
 <p>Considering all the thousands of years that dogs have been bred by humans (and others), this could have been some oddball breed ... but only just. The hair was short and dense, a deep velour of black and white. The two tones lay in broad swaths with no intermediate grays. This one’s entire head was black, its haunches split between white and black. The tail was a short, unimpressive flap covering its rear. There were hairless patches on its shoulders and head, where Jefri could see black skin. But the strangest thing was the long, supple neck. It would look more natural in a sea’mal than a dog.</p>
 <p>Jefri wiggled his fingers, and the puppy's eyes widened, revealing an edge of white around the iris.</p>
