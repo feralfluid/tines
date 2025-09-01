@@ -15,5 +15,5 @@ export default defineConfig({
 			tableOfContents: false,
 		}),
 	],
-	site: 'packofpuppies.com',
+	site: 'https://packofpuppies.com',
 });
