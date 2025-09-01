@@ -14,6 +14,7 @@ export default defineConfig({
 			pagefind: false,
 			tableOfContents: false,
 
+			favicon: '/favicon/favicon.svg',
 			head: [
 		    {
 		      tag: 'link',
@@ -22,14 +23,6 @@ export default defineConfig({
 		        type: 'image/png',
 		        href: '/favicon/favicon-96x96.png',
 		        sizes: '96x96',
-		      },
-		    },
-		    {
-		      tag: 'link',
-		      attrs: {
-		        rel: 'icon',
-		        type: 'image/svg+xml',
-		        href: '/favicon/favicon.svg',
 		      },
 		    },
 		    {
