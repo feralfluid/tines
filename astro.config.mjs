@@ -7,9 +7,13 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'packofpuppies.com',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/feralfluid/tines' }],
+			social: [
+				{ icon: 'blueSky', label: 'BlueSky', href: 'https://bsky.app/profile/feralfluid.bsky.social' },
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/feralfluid/tines' },
+			],
 			pagefind: false,
 			tableOfContents: false,
 		}),
 	],
+	site: 'packofpuppies.com',
 });
